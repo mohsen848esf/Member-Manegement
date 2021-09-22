@@ -1,0 +1,9 @@
+.SubButton {
+  margin-top: 30px;
+  border: 1px solid red;
+  background-color: #de2d26;
+  color: #fff;
+  width: 400px;
+  font-weight: 700;
+  padding: 10px 5px;
+}

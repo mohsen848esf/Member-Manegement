@@ -1,0 +1,23 @@
+.formHolder {
+  border: 1px solid #dbdbdb66;
+  width: 450px;
+  margin: auto;
+}
+.head {
+  margin-top: 100px !important;
+  background: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.title {
+  text-align: right;
+  margin-right: 22px;
+  margin-bottom: 10px;
+  font-weight: 700;
+  font-size: 18px;
+}
+.image {
+  width: 100px;
+  margin: auto;
+  margin-top: 30px;
+}
